@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-		MAlli Container
+          This is my First Travis CI enabled React App DEployed at Elastic Ben stalk.
           </p>
           <a
             className="App-link"
